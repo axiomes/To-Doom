@@ -1,0 +1,6 @@
+[submodule "library/vendor/doctrine"]
+	path = library/vendor/doctrine
+	url = git@github.com:feychenie/Doctrine-ODM-bundle.git
+[submodule "library/axiomes"]
+	path = library/axiomes
+	url = git@github.com:axiomes-org/Doctrine-ODM-Zend-Framework-integration.git
